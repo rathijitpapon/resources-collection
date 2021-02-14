@@ -1,0 +1,536 @@
+{
+    "Playgrounds": [
+        {
+            "url": "https://colab.research.google.com/notebooks/intro.ipynb",
+            "title": "Google Colaboratory"
+        },
+        {
+            "url": "https://gradient.paperspace.com/free-gpu",
+            "title": "Free Cloud GPUs"
+        },
+        {
+            "url": "https://www.kaggle.com/",
+            "title": "Kaggle: Your Machine Learning and Data Science Community"
+        },
+        {
+            "url": "https://deepmux.com",
+            "title": "DeepMux"
+        },
+        {
+            "url": "https://ml-playground.com/",
+            "title": "Machine Learning Playground"
+        },
+        {
+            "url": "https://aws.amazon.com/sagemaker/",
+            "title": "Amazon SageMaker | Machine Learning | AWS"
+        },
+        {
+            "url": "https://www.nvidia.com/en-us/data-center/data-center-gpus/gpu-test-drive/",
+            "title": "NVIDIA DGX System Test Drive"
+        }
+    ],
+    "Tutorials": [
+        {
+            "url": "http://introtodeeplearning.com",
+            "title": "MIT Deep Learning 6.S191"
+        },
+        {
+            "url": "http://web.stanford.edu/class/cs224n/",
+            "title": "Stanford CS 224N | Natural Language Processing with Deep Learning"
+        },
+        {
+            "url": "https://www.youtube.com/channel/UC12LqyqTQYbXatYS9AA7Nuw",
+            "title": "Machine Learning University"
+        },
+        {
+            "url": "https://albertchristopherr.medium.com/top-3-machine-learning-and-ai-certification-you-should-not-miss-in-2020-41f1b3f866a2",
+            "title": "Top 3 Machine Learning and AI Certification You Should Not Miss in 2020"
+        },
+        {
+            "url": "https://www.tensorflow.org/tutorials",
+            "title": "Tutorials | TensorFlow Core"
+        },
+        {
+            "url": "https://www.marktechpost.com/free-ai-ml-deep-learning-video-lectures/",
+            "title": "Free AI, ML, Deep Learning Video Lectures"
+        },
+        {
+            "url": "https://www.eduonix.com/ai-machine-learning-edegree",
+            "title": "Eduonix.com | AI and Machine Learning E-Degree - A Complete Masterclass"
+        },
+        {
+            "url": "https://www.edx.org/course/machine-learning",
+            "title": "Machine Learning | EDX"
+        },
+        {
+            "url": "https://www.edx.org/micromasters/mitx-statistics-and-data-science",
+            "title": "Statistics and Data Science MicroMasters® Program"
+        },
+        {
+            "url": "https://www.cs.ox.ac.uk/teaching/courses/2016-2017/dl/",
+            "title": "Deep Learning for Natural Language Processing"
+        },
+        {
+            "url": "https://techdevguide.withgoogle.com/paths/machine-learning/",
+            "title": "Machine Learning – Google Tech Dev Guide"
+        },
+        {
+            "url": "https://pytorch.org/tutorials/",
+            "title": "Welcome to PyTorch Tutorials"
+        },
+        {
+            "url": "https://course.elementsofai.com/",
+            "title": "A free online introduction to artificial intelligence for non-experts"
+        },
+        {
+            "url": "https://course.fast.ai",
+            "title": "Fast AI Video Viewer"
+        },
+        {
+            "url": "https://aws.amazon.com/training/learn-about/machine-learning/",
+            "title": "Machine Learning (ML) - Digital and Classroom Training | AWS"
+        },
+        {
+            "url": "https://ai.google/education/",
+            "title": "Education – Google AI"
+        },
+        {
+            "url": "https://developers.google.com/machine-learning/crash-course/ml-intro",
+            "title": "Introduction to Machine Learning | Machine Learning Crash Course"
+        },
+        {
+            "url": "https://classroom.udacity.com/courses/ud741",
+            "title": "Machine Learning: Unsupervised Learning | Udacity"
+        },
+        {
+            "url": "https://classroom.udacity.com/courses/ud810",
+            "title": "Introduction to Computer Vision | Udacity"
+        },
+        {
+            "url": "https://micromasters.mit.edu",
+            "title": "MITx MicroMasters"
+        },
+        {
+            "url": "https://cs231n.github.io/",
+            "title": "CS231n Convolutional Neural Networks for Visual Recognition"
+        },
+        {
+            "url": "https://deep-learning-drizzle.github.io/",
+            "title": "Deep Learning Drizzle"
+        },
+        {
+            "url": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
+            "title": "Steve Brunton's Channel"
+        },
+        {
+            "url": "https://cognitiveclass.ai/courses/machine-learning-with-python",
+            "title": "Machine Learning with Python"
+        }
+    ],
+    "Projects, Datasets & GitHub Repos": [
+        {
+            "url": "http://cs229.stanford.edu/projects.html",
+            "title": "CS229: Machine Learning - Projects"
+        },
+        {
+            "url": "https://www.mrdbourke.com/airbnb-amenity-detection/",
+            "title": "Replicating Airbnb's Amenity Detection with Detectron2"
+        },
+        {
+            "url": "https://towardsdatascience.com/a-list-of-beginner-friendly-nlp-projects-using-pre-trained-models-dc4768b4bec0",
+            "title": "A list of beginner-friendly NLP projects—using pre-trained models"
+        },
+        {
+            "url": "https://techno-pundit.blogspot.com/2020/03/machine-learning-projects-for-beginners.html",
+            "title": "Machine Learning Projects for Beginners"
+        },
+        {
+            "url": "https://medium.com/towards-artificial-intelligence/meme-generator-memegen-using-deep-learning-d133e6fc363f",
+            "title": "Meme Generator (MemeGen) Using Deep Learning"
+        },
+        {
+            "url": "https://medium.com/towards-artificial-intelligence/oh-hello-nlp-project-ideas-for-beginners-eec5c0061d5a",
+            "title": "Oh Hello! NLP Project Ideas for Beginners"
+        },
+        {
+            "url": "https://medium.com/airbnb-engineering/amenity-detection-and-beyond-new-frontiers-of-computer-vision-at-airbnb-144a4441b72e",
+            "title": "Amenity Detection and Beyond — New Frontiers of Computer Vision at Airbnb"
+        },
+        {
+            "url": "https://lionbridge.ai/datasets/tensorflow-datasets-machine-learning/",
+            "title": "30 Largest TensorFlow Datasets for Machine Learning | Lionbridge AI"
+        },
+        {
+            "url": "https://kaggle.com/mariafrenti/age-prediction",
+            "title": "Age prediction"
+        },
+        {
+            "url": "https://kaggle.com/stackoverflow/stacksample",
+            "title": "StackSample: 10% of Stack Overflow Q&A"
+        },
+        {
+            "url": "https://kaggle.com/wcukierski/enron-email-dataset",
+            "title": "The Enron Email Dataset"
+        },
+        {
+            "url": "https://github.com/maykulkarni/Machine-Learning-Curriculum",
+            "title": "Machine-Learning-Curriculum"
+        },
+        {
+            "url": "https://github.com/menon92/DL-Sneak-Peek",
+            "title": "Deep learning sneak peek"
+        },
+        {
+            "url": "https://github.com/minimaxir/gpt-2-simple",
+            "title": "gpt-2-simple"
+        },
+        {
+            "url": "https://github.com/mrdbourke/airbnb-amenity-detection",
+            "title": "Replicating Airbnb's Amenity Detection with Detectron2"
+        },
+        {
+            "url": "https://github.com/llSourcell/Learn-Natural-Language-Processing-Curriculum",
+            "title": "Learn-Natural-Language-Processing-Curriculum"
+        },
+        {
+            "url": "https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months",
+            "title": "Learn_Machine_Learning_in_3_Months"
+        },
+        {
+            "url": "https://github.com/lucidrains/stylegan2-pytorch",
+            "title": "stylegan2-pytorch"
+        },
+        {
+            "url": "https://github.com/lengstrom/fast-style-transfer",
+            "title": "fast-style-transfer"
+        },
+        {
+            "url": "https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap",
+            "title": "Deep Learning Papers Reading Roadmap"
+        },
+        {
+            "url": "https://github.com/google-research-datasets/",
+            "title": "Google Research Datasets"
+        },
+        {
+            "url": "https://github.com/iamrehman/HackerEarth_DeepLearningCompetition_Solution",
+            "title": "HackerEarth_DeepLearningCompetition_Solution"
+        },
+        {
+            "url": "https://github.com/junyanz/CycleGAN",
+            "title": "CycleGAN"
+        },
+        {
+            "url": "https://github.com/datasciencescoop/awesome-deep-learning",
+            "title": "Awesome Deep Learning"
+        },
+        {
+            "url": "https://github.com/facebookresearch/TransCoder",
+            "title": "TransCoder"
+        },
+        {
+            "url": "https://github.com/awesomedata/awesome-public-datasets",
+            "title": "Awesome Public Datasets"
+        },
+        {
+            "url": "https://github.com/aymericdamien/TensorFlow-Examples",
+            "title": "TensorFlow Examples"
+        },
+        {
+            "url": "https://github.com/NVlabs/stylegan2",
+            "title": "NVlabs/stylegan2"
+        },
+        {
+            "url": "https://github.com/NirantK/awesome-project-ideas",
+            "title": "Awesome Deep Learning Project Ideas"
+        },
+        {
+            "url": "https://github.com/TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials",
+            "title": "NEW LIST 2020 - 2021: Machine-Learning / Deep-Learning / AI -Tutorials"
+        },
+        {
+            "url": "https://github.com/JingchunCheng/All-Age-Faces-Dataset",
+            "title": "All-Age-Faces Dataset"
+        },
+        {
+            "url": "https://github.com/tensorflow/gan/tree/master/tensorflow_gan/examples",
+            "title": "TF-GAN Examples"
+        },
+        {
+            "url": "https://github.com/JaidedAI/EasyOCR",
+            "title": "EasyOCR"
+        },
+        {
+            "url": "https://github.com/banglakit",
+            "title": "BanglaKit"
+        },
+        {
+            "url": "https://github.com/sezan92/caption_gen",
+            "title": "caption_gen"
+        },
+        {
+            "url": "https://github.com/sksoumik/AI-resources",
+            "title": "AI Resources"
+        },
+        {
+            "url": "https://github.com/ucaiado/QLearning_Trading",
+            "title": "Trading Using Q-Learning"
+        },
+        {
+            "url": "https://github.com/wiseodd/generative-models",
+            "title": "Generative Models"
+        },
+        {
+            "url": "https://github.com/yemount/pose-animator/",
+            "title": "Pose Animator"
+        },
+        {
+            "url": "https://datasetsearch.research.google.com/",
+            "title": "Dataset Search"
+        },
+        {
+            "url": "https://data-flair.training/blogs/machine-learning-project-ideas/",
+            "title": "Top 47 Machine Learning Projects for 2021"
+        },
+        {
+            "url": "https://www.kaggle.com/c/bengaliai-cv19/overview",
+            "title": "Bengali.AI Handwritten Grapheme Classification"
+        },
+        {
+            "url": "https://www.kaggle.com/c/facebook-recruiting-iii-keyword-extraction/overview",
+            "title": "Facebook Recruiting III - Keyword Extraction"
+        },
+        {
+            "url": "https://www.kaggle.com/c/hashcode-photo-slideshow/overview",
+            "title": "Hash Code Archive - Photo Slideshow Optimization"
+        },
+        {
+            "url": "https://www.kaggle.com/c/numta/overview",
+            "title": "Bengali Handwritten Digit Recognition"
+        },
+        {
+            "url": "https://www.kaggle.com/c/siim-isic-melanoma-classification/overview",
+            "title": "SIIM-ISIC Melanoma Classification"
+        },
+        {
+            "url": "https://www.kaggle.com/c/state-farm-distracted-driver-detection/overview",
+            "title": "State Farm Distracted Driver Detection"
+        },
+        {
+            "url": "https://www.kaggle.com/c/the-nature-conservancy-fisheries-monitoring/overview",
+            "title": "The Nature Conservancy Fisheries Monitoring"
+        },
+        {
+            "url": "https://ml-showcase.paperspace.com/projects",
+            "title": "Projects | ML Showcase"
+        },
+        {
+            "url": "https://www.drivendata.org/competitions/63/genetic-engineering-attribution/",
+            "title": "Genetic Engineering Attribution Challenge"
+        },
+        {
+            "url": "https://registry.opendata.aws/",
+            "title": "Registry of Open Data on AWS"
+        },
+        {
+            "url": "https://www.pyimagesearch.com/2020/05/04/covid-19-face-mask-detector-with-opencv-keras-tensorflow-and-deep-learning/",
+            "title": "COVID-19: Face Mask Detector with OpenCV, Keras/TensorFlow, and Deep Learning"
+        },
+        {
+            "url": "https://archive.ics.uci.edu/ml/index.php",
+            "title": "UCI Machine Learning Repository"
+        },
+        {
+            "url": "https://fall2019.fullstackdeeplearning.com/course-content/setting-up-machine-learning-projects/overview",
+            "title": "Setting Up Machine Learning Projects"
+        }
+    ],
+    "Articles": [
+        {
+            "url": "https://medium.com/machine-learning-in-practice/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524",
+            "title": "My Curated List of AI and Machine Learning Resources from Around the Web"
+        },
+        {
+            "url": "http://gombru.github.io/2018/05/23/cross_entropy_loss/",
+            "title": "Understanding Categorical Cross-Entropy Loss, Binary Cross-Entropy Loss, Softmax Loss, Logistic Loss, Focal Loss and all those confusing names"
+        },
+        {
+            "url": "http://jalammar.github.io/illustrated-transformer/",
+            "title": "The Illustrated Transformer"
+        },
+        {
+            "url": "http://peterbloem.nl/blog/transformers",
+            "title": "Transformers from scratch"
+        },
+        {
+            "url": "https://ai.science/e/nlp-on-noisy-user-generated-text-ner-for-stack-overflow--Zz1v0TMw2KeFNyM5EjJB@/streams/natural-language-processing",
+            "title": "NLP on Noisy User-generated text - NER for StackOverflow"
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=i94OvYb6noo",
+            "title": "CS231n Winter 2016: Lecture 4: Backpropagation, Neural Networks"
+        },
+        {
+            "url": "https://www.telesens.co/2018/03/11/object-detection-and-classification-using-r-cnns/",
+            "title": "Object Detection and Classification using R-CNNs"
+        },
+        {
+            "url": "https://www.mrdbourke.com/5-beginner-friendly-steps-to-learn-machine-learning/",
+            "title": "5 Beginner Friendly Steps to Learn Machine Learning and Data Science with Python"
+        },
+        {
+            "url": "https://www.mrdbourke.com/a-6-step-field-guide-for-building-machine-learning-projects/",
+            "title": "A 6 Step Field Guide for Building Machine Learning Projects"
+        },
+        {
+            "url": "https://www.hackerearth.com/practice/machine-learning/prerequisites-of-machine-learning/basic-probability-models-and-rules/tutorial/",
+            "title": "Basic Probability Models and Rules Tutorials & Notes"
+        },
+        {
+            "url": "https://www.freecodecamp.org/news/building-a-data-science-curriculum-with-advanced-math-and-machine-learning/",
+            "title": "We're Building a Data Science Curriculum with Advanced Mathematics and Machine Learning"
+        },
+        {
+            "url": "https://www.datacamp.com/community/tutorials/random-forests-classifier-python",
+            "title": "Random Forests Classifiers in Python"
+        },
+        {
+            "url": "https://www.datasciencecentral.com/profiles/blogs/20-data-science-r-python-excel-and-machine-learning-cheat-sheets",
+            "title": "24 Data Science, R, Python, Excel, and Machine Learning Cheat Sheets"
+        },
+        {
+            "url": "https://www.datasciencecentral.com/profiles/blogs/deep-learning-cheat-sheet-using-python-libraries",
+            "title": "Deep Learning Cheat Sheet (using Python Libraries)"
+        },
+        {
+            "url": "https://towardsdatascience.com/semi-supervised-learning-with-gans-9f3cb128c5e",
+            "title": "Semi-supervised learning with Generative Adversarial Networks (GANs)"
+        },
+        {
+            "url": "https://towardsdatascience.com/deep-learning-for-object-detection-a-comprehensive-review-73930816d8d9",
+            "title": "Deep Learning for Object Detection: A Comprehensive Review"
+        },
+        {
+            "url": "https://towardsdatascience.com/getting-started-with-reading-deep-learning-research-papers-the-why-and-the-how-dfd1ac15dbc0",
+            "title": "Getting started with reading Deep Learning Research papers: The Why and the How"
+        },
+        {
+            "url": "https://towardsdatascience.com/math-neural-network-from-scratch-in-python-d6da9f29ce65",
+            "title": "Neural Network from scratch in Python"
+        },
+        {
+            "url": "https://onlinecourseing.com/udacity-self-driving-car-engineer-nanodegree-review/",
+            "title": "Udacity Self Driving Car Nanodegree Review 2021: Learn To Make Autonomous Car"
+        },
+        {
+            "url": "https://medium.com/towards-artificial-intelligence/building-neural-networks-from-scratch-with-python-code-and-math-in-detail-i-536fae5d7bbf",
+            "title": "Neural Networks from Scratch with Python Code and Math in Detail— I"
+        },
+        {
+            "url": "https://medium.com/towards-artificial-intelligence/building-neural-networks-with-python-code-and-math-in-detail-ii-bbe8accbf3d1",
+            "title": "Building Neural Networks with Python Code and Math in Detail — II"
+        },
+        {
+            "url": "https://medium.com/towards-artificial-intelligence/machine-learning-algorithms-for-beginners-with-python-code-examples-ml-19c6afd60daa",
+            "title": "Machine Learning Algorithms For Beginners with Code Examples in Python"
+        },
+        {
+            "url": "https://medium.com/towards-artificial-intelligence/natural-language-processing-nlp-with-python-tutorial-for-beginners-1f54e610a1a0",
+            "title": "Natural Language Processing (NLP) with Python — Tutorial"
+        },
+        {
+            "url": "https://medium.com/towards-artificial-intelligence/safest-way-to-containerize-deep-learning-flask-api-8441eee8488f",
+            "title": "Safest Way To Containerize a Deep Learning Flask API"
+        },
+        {
+            "url": "https://medium.com/fintechexplained/what-are-eigenvalues-and-eigenvectors-a-must-know-concept-for-machine-learning-80d0fd330e47",
+            "title": "What are Eigenvalues and Eigenvectors?"
+        },
+        {
+            "url": "https://medium.com/inside-machine-learning/what-is-a-transformer-d07dd1fbec04",
+            "title": "What is a Transformer?"
+        },
+        {
+            "url": "https://medium.com/@pushkarmandot/https-medium-com-pushkarmandot-what-is-lightgbm-how-to-implement-it-how-to-fine-tune-the-parameters-60347819b7fc",
+            "title": "What is LightGBM, How to implement it? How to fine tune the parameters?"
+        },
+        {
+            "url": "https://medium.com/@14prakash/back-propagation-is-very-simple-who-made-it-complicated-97b794c97e5c",
+            "title": "Back-Propagation is very simple. Who made it Complicated ?"
+        },
+        {
+            "url": "https://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/",
+            "title": "A Tour of Machine Learning Algorithms"
+        },
+        {
+            "url": "https://machinelearningmastery.com/develop-neural-machine-translation-system-keras/",
+            "title": "How to Develop a Neural Machine Translation System from Scratch"
+        },
+        {
+            "url": "https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/",
+            "title": "Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With Attention)"
+        },
+        {
+            "url": "https://hmkcode.com/ai/backpropagation-step-by-step/",
+            "title": "Backpropagation Step by Step"
+        },
+        {
+            "url": "https://blog.paperspace.com/how-to-implement-a-yolo-object-detector-in-pytorch/",
+            "title": "Tutorial on implementing YOLO v3 from scratch in PyTorch"
+        },
+        {
+            "url": "https://ruder.io/optimizing-gradient-descent/",
+            "title": "An overview of gradient descent optimization algorithms"
+        },
+        {
+            "url": "https://sebastianraschka.com/Articles/2015_pca_in_3_steps.html",
+            "title": "Principal Component Analysis"
+        },
+        {
+            "url": "https://www.freecodecamp.org/news/how-i-passed-the-certified-tensorflow-developer-exam/",
+            "title": "How to Pass the TensorFlow Developer Certificate Exam"
+        },
+        {
+            "url": "https://www.r-bloggers.com/2019/07/101-machine-learning-algorithms-for-data-science-with-cheat-sheets/",
+            "title": "101 Machine Learning Algorithms for Data Science with Cheat Sheets"
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=IMMDPzECrf0",
+            "title": "5 Beginner Friendly Steps to Learn Machine Learning"
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=y57wwucbXR8",
+            "title": "Building the Software 2 0 Stack (Andrej Karpathy)"
+        },
+        {
+            "url": "https://data36.com/learning-data-science/",
+            "title": "Learning Data Science (4 Untold Truths)"
+        },
+        {
+            "url": "https://iamtrask.github.io/",
+            "title": "Trask Blog"
+        },
+        {
+            "url": "https://www.reddit.com/r/MachineLearning/",
+            "title": "Reddit Machine Learning"
+        }
+    ],
+    "Other": [
+        {
+            "url": "https://www.slashgear.com/googles-new-ml-kit-sdk-keeps-all-machine-learning-on-the-device-24626181/",
+            "title": "Google’s new ML Kit SDK keeps all machine learning on the device"
+        },
+        {
+            "url": "https://aws.amazon.com/marketplace/pp/Amazon-Web-Services-AWS-Deep-Learning-AMI-Amazon-L/B077GF11NF",
+            "title": "AWS Marketplace: AWS Deep Learning AMI (Amazon Linux)"
+        },
+        {
+            "url": "https://paperswithcode.com/methods",
+            "title": "Papers with Code - The Methods Corpus"
+        },
+        {
+            "url": "https://grand-challenge.org/challenges/",
+            "title": "Grand Challenge"
+        }
+    ]
+}

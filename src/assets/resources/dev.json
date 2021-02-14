@@ -1,0 +1,328 @@
+{
+    "Tutorials": [
+        {
+            "url": "https://fullstackopen.com/en/",
+            "title": "Full stack open 2020"
+        },
+        {
+            "url": "https://github.com/tpphu/golang-training",
+            "title": "Golang for Backend Developer"
+        },
+        {
+            "url": "https://frontendmasters.com/books/front-end-handbook/2019/",
+            "title": "Front-end Developer Handbook 2019"
+        },
+        {
+            "url": "https://techdevguide.withgoogle.com/",
+            "title": "Google Tech Dev Guide"
+        },
+        {
+            "url": "https://www.awseducate.com/student/s/pathways",
+            "title": "AWS Pathways"
+        },
+        {
+            "url": "https://awseducate.instructure.com/",
+            "title": "AWS Courses"
+        },
+        {
+            "url": "https://www.youtube.com/channel/UCP4bf6IHJJQehibu6ai__cg",
+            "title": "Firebase"
+        },
+        {
+            "url": "https://www.youtube.com/channel/UCkw4JCwteGrDHIsyIIKo4tQ",
+            "title": "Edureka"
+        },
+        {
+            "url": "https://www.codecademy.com/catalog",
+            "title": "Codecademy"
+        },
+        {
+            "url": "https://www.techprofree.com/programming-tutorial/",
+            "title": "Programming Tutorial - Techprofree"
+        },
+        {
+            "url": "https://lab.github.com/",
+            "title": "GitHub Learning Lab"
+        },
+        {
+            "url": "https://university.mongodb.com/mercury/M001/2020_ondemand/overview",
+            "title": "MongoDB University"
+        },
+        {
+            "url": "https://learning.oreilly.com/home/",
+            "title": "Oreilly"
+        },
+        {
+            "url": "https://FrontendMasters.com/",
+            "title": "Learn JavaScript, React, Vue & Angular from Masters of Front-End Development!"
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=1ndlRiaYiWQ",
+            "title": "Nginx Tutorial | Learn Nginx Fundamentals"
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=YH4CfwK6LhM&list=PLEiEAq2VkUUIJ3o1tehvtux0_Ynf42CBN",
+            "title": "What is Cloud Computing?"
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=z5nc9MDbvkw",
+            "title": "Introduction To Cyber Security"
+        }
+    ],
+    "Topics": [
+        {
+            "url": "http://microservices.io/index.html",
+            "title": "What are microservices?"
+        },
+        {
+            "url": "https://javascript.info/",
+            "title": "The Modern JavaScript Tutorial"
+        },
+        {
+            "url": "https://angular.io/tutorial",
+            "title": "Angular"
+        },
+        {
+            "url": "https://www.electronjs.org/",
+            "title": "Electron | Build cross-platform desktop apps with JavaScript, HTML, and CSS."
+        },
+        {
+            "url": "https://www.freecodecamp.org/news/the-docker-handbook/",
+            "title": "The Docker Handbook"
+        },
+        {
+            "url": "https://www.freecodecamp.org/news/the-kubernetes-handbook/",
+            "title": "The Kubernetes Handbook"
+        },
+        {
+            "url": "https://material.io",
+            "title": "Material Design"
+        },
+        {
+            "url": "https://learn.unity.com/",
+            "title": "Learn game development with Unity | Courses & tutorials in game design, VR, AR, & Real-time 3D"
+        },
+        {
+            "url": "https://flask-restful.readthedocs.io/en/latest/quickstart.html",
+            "title": "Quickstart — Flask-RESTful 0.3.8 documentation"
+        },
+        {
+            "url": "https://flutter.dev/docs/cookbook",
+            "title": "Flutter Cookbook"
+        },
+        {
+            "url": "https://kotlinlang.org/docs/home.html",
+            "title": "Kotlin Multiplatform Mobile Docs"
+        }
+    ],
+    "Articles": [
+        {
+            "url": "https://www.boxpiper.com/posts/solid-software-design-principles/",
+            "title": "SOLID: Software Design Principles. Be a better developer"
+        },
+        {
+            "url": "https://www.geeksforgeeks.org/how-to-design-a-web-application-a-guideline-on-software-architecture/",
+            "title": "How to Design a Web Application - A Guideline on Software Architecture"
+        },
+        {
+            "url": "https://www.guru99.com/agile-scrum-extreme-testing.html",
+            "title": "Agile Methodology: What is Agile Software Development Model?"
+        },
+        {
+            "url": "https://towardsdatascience.com/react-best-practices-804def6d5215",
+            "title": "React Best Practices"
+        },
+        {
+            "url": "https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/",
+            "title": "Introduction · Build web application with Golang"
+        },
+        {
+            "url": "https://code.visualstudio.com/docs/remote/containers",
+            "title": "Developing inside a Container using Visual Studio Code Remote Development"
+        },
+        {
+            "url": "https://dev.to/haycuoilennao19/34-ui-libraries-for-react-vue-and-angular-525l",
+            "title": "34 UI Libraries For React, Vue And Angular"
+        },
+        {
+            "url": "https://dev.to/sidthesloth92/story-of-how-i-built-my-portfolio-and-blog-using-dev-to-and-nextjs-3j85",
+            "title": "Story of how I built my Portfolio and Blog using DEV.to and NextJS"
+        },
+        {
+            "url": "https://dev.to/aneeqakhan/implementing-night-mode-in-react-hooks-486j",
+            "title": "Implementing Night Mode in React Hooks"
+        },
+        {
+            "url": "https://devops.com/why-is-site-reliability-engineering-important/",
+            "title": "Why is Site Reliability Engineering Important?"
+        },
+        {
+            "url": "https://github.blog/2020-12-18-how-to-make-devops-your-competitive-advantage/",
+            "title": "How to make DevOps your competitive advantage"
+        },
+        {
+            "url": "https://medium.com/@mjberman024/embedding-a-code-editor-in-your-website-using-react-ace-42e64a58507",
+            "title": "Embedding a code editor in your website using React-Ace"
+        },
+        {
+            "url": "https://malith-dev.medium.com/track-users-in-your-react-app-with-google-analytics-6364ebfcbae8",
+            "title": "Track users in your react app with google analytics"
+        },
+        {
+            "url": "https://www.coursera.org/projects/containerize-full-stack-nodejs-application-in-docker",
+            "title": "Containerize a full-stack NodeJS application in Docker"
+        },
+        {
+            "url": "https://medium.com/javascript-in-plain-english/authentication-using-passport-js-in-a-node-js-backend-api-51e9946549cb",
+            "title": "Authentication Using Passport.js in a Node.js Backend API"
+        },
+        {
+            "url": "https://www.faisaljebali.com/how-to-add-google-analytics-to-your-reactjs-app",
+            "title": "How to add google analytics to your reactjs app?"
+        },
+        {
+            "url": "https://blog.bitsrc.io/mock-apis-different-techniques-for-react-and-angular-156284b757f4",
+            "title": "Mock APIs: Different Techniques for React and Angular"
+        },
+        {
+            "url": "https://grokonez.com/frontend/angular/angular-deployment/how-to-deploy-angular-application-on-heroku-hosting-with-git-repository",
+            "title": "How to Deploy Angular application on Heroku hosting with Git repository"
+        },
+        {
+            "url": "https://thenewstack.io/applied-gitops-with-argocd/",
+            "title": "Applied GitOps with ArgoCD"
+        },
+        {
+            "url": "https://thenewstack.io/when-kubernetes-isnt-the-right-choice/",
+            "title": "When Kubernetes Isn’t the Right Choice"
+        }
+    ],
+    "GitHub Repos & Projects": [
+        {
+            "url": "https://thesmartcoder.dev/10-extraordinary-github-repos-for-all-developers/",
+            "title": "10 Extraordinary GitHub Repos for All Developers"
+        },
+        {
+            "url": "https://github.com/kamranahmedse/developer-roadmap",
+            "title": "Developer Roadmap"
+        },
+        {
+            "url": "https://www.codetriage.com/university",
+            "title": "CodeTriage"
+        },
+        {
+            "url": "https://github.com/public-apis/public-apis",
+            "title": "Public APIs"
+        },
+        {
+            "url": "https://github.com/securingsincity/react-ace",
+            "title": "React-Ace"
+        },
+        {
+            "url": "https://www.npmjs.com/package/react-ace",
+            "title": "React Ace NPM Package"
+        },
+        {
+            "url": "https://thesmartcoder.dev/build-a-simple-chess-ai-in-javascript/",
+            "title": "Build a Simple Chess AI in JavaScript"
+        },
+        {
+            "url": "https://zeyu2001.github.io/chess-ai/",
+            "title": "Chess AI"
+        },
+        {
+            "url": "https://www.freecodecamp.org/news/develop-a-reusable-ecommerce-platform/",
+            "title": "How to Develop a Reusable eCommerce Platform"
+        },
+        {
+            "url": "https://www.webiny.com/blog/tutorial-e-commerce-nextjs-stripe",
+            "title": "Build an E-commerce Website with Webiny Serverless Headless CMS, Next.js, and Stripe"
+        },
+        {
+            "url": "https://thesmartcoder.dev/10-inspiring-ideas-for-your-next-front-end-project/",
+            "title": "10 Inspiring Ideas for Your Next Front-End Project"
+        },
+        {
+            "url": "https://medium.com/@nerdjfpb/15-react-js-project-ideas-beginner-to-expert-with-free-tutorial-55077e04198c",
+            "title": "15 React JS Project Ideas: Beginner to Expert"
+        },
+        {
+            "url": "https://www.coursera.org/projects/aws-publish-nodejs-website-from-scratch",
+            "title": "AWS: Publish a NodeJS Website from Scratch"
+        },
+        {
+            "url": "https://www.frontendmentor.io/solutions",
+            "title": "Frontend Mentor | Front-end coding challenges using a real-life workflow"
+        }
+    ],
+    "Other": [
+        {
+            "url": "https://cloud.google.com/",
+            "title": "Cloud Computing Services | Google Cloud"
+        },
+        {
+            "url": "https://cloud.ibm.com",
+            "title": "IBM Cloud"
+        },
+        {
+            "url": "https://aws.amazon.com/",
+            "title": "AWS - Cloud Computing Services"
+        },
+        {
+            "url": "https://azure.microsoft.com/en-us/",
+            "title": "Cloud Computing Services | Microsoft Azure"
+        },
+        {
+            "url": "https://google.qwiklabs.com/",
+            "title": "Qwiklabs - Hands-On Cloud Training"
+        },
+        {
+            "url": "https://apiumhub.com/tech-blog-barcelona/20-software-architecture-podcasts-to-follow/",
+            "title": "20 Software architecture podcasts to follow"
+        },
+        {
+            "url": "https://www.infoworld.com/article/3588153/4-handy-uses-for-visual-studio-code-aside-from-coding.html",
+            "title": "4 handy uses for Visual Studio Code"
+        },
+        {
+            "url": "https://www.robinwieruch.de/how-to-use-prettier-vscode",
+            "title": "How to use Prettier in VS Code - RWieruch"
+        },
+        {
+            "url": "https://www.mongodb.com/blog/post/engineering-engineers-mongodbs-culture-enables-engineer-their-very-best",
+            "title": "Engineering for Engineers: How MongoDB’s Culture Enables Engineers to Be Their Very Best | MongoDB Blog"
+        },
+        {
+            "url": "https://marketplace.zoom.us/docs/guides",
+            "title": "Documentation - Zoom Developer - Technical Documentation and Reference"
+        },
+        {
+            "url": "https://backendless.com/pricing/backendless-pro/",
+            "title": "Backendless Pro | Backend as a Service and API Management Platform"
+        },
+        {
+            "url": "https://www.back4app.com",
+            "title": "Low-code backend to build modern apps | Back4App"
+        },
+        {
+            "url": "http://homepages.inf.ed.ac.uk/rbf/HIPR2/fourier.htm",
+            "title": "Image Transforms - Fourier Transform"
+        },
+        {
+            "url": "http://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_contours/py_contours_begin/py_contours_begin.html",
+            "title": "Contours : Getting Started — OpenCV-Python Tutorials 1 documentation"
+        },
+        {
+            "url": "https://docs.opencv.org/master/d9/d8b/tutorial_py_contours_hierarchy.html",
+            "title": "OpenCV: Contours Hierarchy"
+        },
+        {
+            "url": "https://fbmessaging2.devpost.com/",
+            "title": "Facebook Hackathon: Messaging"
+        },
+        {
+            "url": "https://fbai3.devpost.com/",
+            "title": "Facebook Hackathon: AI"
+        }
+    ]
+}
