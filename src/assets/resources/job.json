@@ -73,6 +73,10 @@
             "title": "InterviewBit: Coding Interview Questions"
         },
         {
+            "url": "https://www.interviewcake.com",
+            "title": "Interview Cake"
+        },
+        {
             "url": "https://www.linkedin.com/learning/video-interview-tips/what-are-video-interviews",
             "title": "What are video interviews?"
         },
@@ -179,6 +183,10 @@
             "title": "DS & Algo Youtube Channel"
         },
         {
+            "url": "https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/",
+            "title": "Data Structures & Algorithms | Google Tech Dev Guide"
+        },
+        {
             "url": "https://codingcompetitions.withgoogle.com/hashcode",
             "title": "Hash Code - Google’s Coding Competitions"
         }
@@ -214,6 +222,10 @@
         }
     ],
     "Other": [
+        {
+            "url": "https://www.freecodecamp.org/news/how-empathy-makes-you-a-better-software-engineer/",
+            "title": "How Empathy Can Make You a Better Software Engineer"
+        },
         {
             "url": "https://drive.google.com/drive/folders/1iIrDdl3A1oabSQwbHm2eAtV2gkIMPURs?usp=sharing",
             "title": "Important Job Resources"
