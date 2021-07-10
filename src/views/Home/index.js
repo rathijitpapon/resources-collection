@@ -36,7 +36,7 @@ const Projects = () => {
                                 Owner: &nbsp;
                                 <a 
                                     style={{ color: "#e493ea", textDecoration: "none" }}
-                                    href="https://rathijitpaul.me"
+                                    href="https://rathijitpaul.com"
                                     target="_blank" 
                                     rel="noopener noreferrer"
                                 >Rathijit Paul</a>
