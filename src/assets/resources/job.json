@@ -87,6 +87,18 @@
         {
             "url": "https://www.udemy.com/course/software-engineer-interview-unleashed/",
             "title": "Software Engineer Interview Unleashed"
+        },
+        {
+            "url": "https://dev.to/worldindev/400-javascript-interview-questions-with-answers-2fcj",
+            "title": "400+ JavaScript Interview Questions 🎓 With Answers"
+        },
+        {
+            "url": "https://techinterviewhandbook.org/introduction",
+            "title": "Tech Interview Handbook"
+        },
+        {
+            "url": "https://github.com/TSiege/Tech-Interview-Cheat-Sheet",
+            "title": "Tech Interview Cheat Sheet"
         }
     ],
     "Resume": [
@@ -197,9 +209,17 @@
         {
             "url": "https://codingcompetitions.withgoogle.com/hashcode",
             "title": "Hash Code - Google’s Coding Competitions"
+        },
+        {
+            "url": "https://leetcode.com/discuss/study-guide/1177039/%22Practice-More-Learn-More%22-greater-Study-Guide-and-Interview-Preparation-Using-LEETCODE",
+            "title": "Study Guide & Interview Preparation Using LEETCODE"
         }
     ],
     "System Design": [
+        {
+            "url": "https://www.hiredintech.com/classrooms/system-design/lesson/52",
+            "title": "System Design Tutorial"
+        },
         {
             "url": "https://gist.github.com/vasanthk/485d1c25737e8e72759f",
             "title": "System Design Cheatsheet"
@@ -289,6 +309,10 @@
         {
             "url": "https://www.geeksforgeeks.org/how-to-prepare-for-gsoc-google-summer-of-code/",
             "title": "How to Prepare For GSoC (Google Summer of Code)"
+        },
+        {
+            "url": "http://www.gainlo.co/#!/",
+            "title": "Gainlo Mock Interview"
         }
     ]
 }

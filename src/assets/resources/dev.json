@@ -67,6 +67,14 @@
         {
             "url": "https://www.youtube.com/watch?v=z5nc9MDbvkw",
             "title": "Introduction To Cyber Security"
+        },
+        {
+            "url": "https://www.freecodecamp.org/news/devops-engineering-course-for-beginners/",
+            "title": "DevOps Engineering Course for Beginners"
+        },
+        {
+            "url": "https://www.digitalocean.com/community/curriculums/kubernetes-for-full-stack-developers",
+            "title": "Kubernetes for Full-Stack Developers"
         }
     ],
     "Topics": [
@@ -116,6 +124,38 @@
         }
     ],
     "Articles": [
+        {
+            "url": "https://dev.to/tbaveja/graphql-v-s-rest-conclusion-2mfk",
+            "title": "GraphQL vs REST - Conclusion"
+        },
+        {
+            "url": "https://dev.to/codesphere/how-to-build-your-own-blockchain-in-nodejs-3ijh",
+            "title": "How to Build Your Own Blockchain in NodeJS"
+        },
+        {
+            "url": "https://dev.to/andrewbaisden/modern-full-stack-developer-tech-stack-2021-49ij",
+            "title": "Modern Full-Stack Developer Tech Stack 2021"
+        },
+        {
+            "url": "https://daily.dev/blog/how-to-improve-your-programming-skills-in-2021-the-full-guide",
+            "title": "How to improve your programming skills in 2021"
+        },
+        {
+            "url": "https://dev.to/gedalyakrycer/165-developer-resources-i-discovered-in-2020-2021-6ma",
+            "title": "165+ Developer Resources I Discovered in 2020-2021"
+        },
+        {
+            "url": "https://dev.to/theme_selection/how-to-make-passive-income-as-a-web-developer-in-2021-5gjl",
+            "title": "How To Make Side Income As a Web Developer in 2021?💸"
+        },
+        {
+            "url": "https://www.freecodecamp.org/news/technical-blogging-basics/",
+            "title": "How to Write Articles as a Developer"
+        },
+        {
+            "url": "https://dev.to/dragosnedelcu/7-steps-to-become-an-expert-software-engineer-without-endless-online-courses-or-waiting-for-years-m8j",
+            "title": "7 Steps to Become an Expert Software Developer"
+        },
         {
             "url": "https://www.boxpiper.com/posts/solid-software-design-principles/",
             "title": "SOLID: Software Design Principles. Be a better developer"
@@ -265,6 +305,24 @@
         {
             "url": "https://www.frontendmentor.io/solutions",
             "title": "Frontend Mentor | Front-end coding challenges using a real-life workflow"
+        }
+    ],
+    "Open Source Contribution": [
+        {
+            "url": "https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects-beginners-guide/",
+            "title": "How to Contribute to Open Source Projects – A Beginner's Guide"
+        },
+        {
+            "url": "https://dev.to/ruppysuppy/zero-to-hero-get-started-with-open-source-10b7",
+            "title": "Zero to Hero: Get started with Open Source Projects"
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=yzeVMecydCE",
+            "title": "Complete Guide to Open Source - How to Contribute"
+        },
+        {
+            "url": "https://opensauced.pizza/",
+            "title": "The path to your next Open Source contribution."
         }
     ],
     "Other": [

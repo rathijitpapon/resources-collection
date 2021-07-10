@@ -1,5 +1,9 @@
 [
     {
+        "url": "https://gitmoji.dev/",
+        "title": "An emoji guide for your commit messages"
+    },
+    {
         "url": "https://missing.csail.mit.edu/",
         "title": "The Missing Semester of Your CS Education"
     },
