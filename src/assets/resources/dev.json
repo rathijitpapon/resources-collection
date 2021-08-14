@@ -323,6 +323,38 @@
         {
             "url": "https://opensauced.pizza/",
             "title": "The path to your next Open Source contribution."
+        },
+        {
+            "url": "https://up-for-grabs.net/#/",
+            "title": "Up For Grabs"
+        },
+        {
+            "url": "https://firstcontributions.github.io/#project-list",
+            "title": "First Contributions Project List"
+        },
+        {
+            "url": "https://opensourcediversity.org/",
+            "title": "Open Source Diversity"
+        },
+        {
+            "url": "https://www.firsttimersonly.com/",
+            "title": "First Time Only"
+        },
+        {
+            "url": "https://goodfirstissues.com/",
+            "title": "Good First Issues - 1"
+        },
+        {
+            "url": "https://goodfirstissue.dev/",
+            "title": "Good First Issue - 2"
+        },
+        {
+            "url": "https://www.codetriage.com/",
+            "title": "CodeTriage"
+        },
+        {
+            "url": "https://app.leapcode.io/projects",
+            "title": "Leapcode"
         }
     ],
     "Other": [
