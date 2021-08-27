@@ -133,52 +133,8 @@
     ],
     "Career Websites": [
         {
-            "url": "https://careers.google.com/",
-            "title": "Google Career"
-        },
-        {
-            "url": "https://career-resource-center.udacity.com/job-boards",
-            "title": "Udacity Job Boards"
-        },
-        {
-            "url": "https://github.com/lukasz-madon/awesome-remote-job",
-            "title": "Awesome Remote Job | GitHub"
-        },
-        {
-            "url": "https://www.amazon.jobs/en/",
-            "title": "Amazon Career"
-        },
-        {
-            "url": "https://www.facebook.com/careers/jobs",
-            "title": "Facebook Career"
-        },
-        {
-            "url": "https://bluesquare-hr.secure.force.com/Recruit/",
-            "title": "Blue Square Career"
-        },
-        {
-            "url": "https://www.theforage.com/virtual-internships/program-divisions/ms2CK9b2SCWGXwPMS",
-            "title": "Engineering: Undergraduate & Masters Asia Virtual Experience Program"
-        },
-        {
-            "url": "https://www.linkedin.com/company/intelligentmachines/about/",
-            "title": "Intelligent Machines"
-        },
-        {
-            "url": "https://www.linkedin.com/company/brain-station-23/",
-            "title": "Brain Station 23 Limited"
-        },
-        {
-            "url": "https://www.indeed.com/",
-            "title": "Indeed Job Portal"
-        },
-        {
-            "url": "https://www.linkedin.com/",
-            "title": "Linkedin Job Portal"
-        },
-        {
-            "url": "https://www.hackerrank.com/jobs/search",
-            "title": "HackerRank Job Portal"
+            "url": "https://github.com/rathijitpapon/tech-career-handbook",
+            "title": "Tech Career Handbook"
         }
     ],
     "Problem Solving": [
