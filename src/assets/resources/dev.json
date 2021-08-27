@@ -5,6 +5,18 @@
             "title": "Full stack open 2020"
         },
         {
+            "url": "https://web.dev/",
+            "title": "Web Dev"
+        },
+        {
+            "url": "https://www.theodinproject.com/",
+            "title": "The Odin Project"
+        },
+        {
+            "url": "https://web.stanford.edu/class/cs253/",
+            "title": "CS 253 Web Security"
+        },
+        {
             "url": "https://github.com/tpphu/golang-training",
             "title": "Golang for Backend Developer"
         },
@@ -125,6 +137,10 @@
     ],
     "Articles": [
         {
+            "url": "https://dev.to/cassiocappellari/basic-concepts-of-node-js-pch",
+            "title": "Basic Concepts of Node.Js"
+        },
+        {
             "url": "https://dev.to/tbaveja/graphql-v-s-rest-conclusion-2mfk",
             "title": "GraphQL vs REST - Conclusion"
         },
@@ -243,6 +259,10 @@
         {
             "url": "https://www.freecodecamp.org/news/learn-the-basics-of-amazon-web-services/",
             "title": "AWS Training – Learn the Basics of Amazon Web Services"
+        },
+        {
+            "url": "https://www.freecodecamp.org/news/how-to-use-google-colab-with-vs-code/",
+            "title": "How to use Google Colab with VS Code"
         }
     ],
     "GitHub Repos & Projects": [
@@ -362,6 +382,10 @@
         }
     ],
     "Other": [
+        {
+            "url": "https://free-for.dev",
+            "title": "Free For Developers"
+        },
         {
             "url": "https://cloud.google.com/",
             "title": "Cloud Computing Services | Google Cloud"
