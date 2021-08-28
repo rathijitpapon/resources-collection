@@ -73,6 +73,10 @@
             "title": "Nginx Tutorial | Learn Nginx Fundamentals"
         },
         {
+            "url": "https://www.freecodecamp.org/news/the-nginx-handbook/",
+            "title": "The Nginx Handbook"
+        },
+        {
             "url": "https://www.youtube.com/watch?v=YH4CfwK6LhM&list=PLEiEAq2VkUUIJ3o1tehvtux0_Ynf42CBN",
             "title": "What is Cloud Computing?"
         },
@@ -136,6 +140,10 @@
         }
     ],
     "Articles": [
+        {
+            "url": "https://dev.to/zeeshanhshaheen/design-patterns-in-javascript-1pgm",
+            "title": "Design Patterns in JavaScript"
+        },
         {
             "url": "https://dev.to/cassiocappellari/basic-concepts-of-node-js-pch",
             "title": "Basic Concepts of Node.Js"
@@ -263,6 +271,10 @@
         {
             "url": "https://www.freecodecamp.org/news/how-to-use-google-colab-with-vs-code/",
             "title": "How to use Google Colab with VS Code"
+        },
+        {
+            "url": "https://www.freecodecamp.org/news/build-your-personal-brand-as-a-developer/",
+            "title": "Build Your Personal Brand as a Developer"
         }
     ],
     "GitHub Repos & Projects": [

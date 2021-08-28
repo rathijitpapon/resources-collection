@@ -129,6 +129,10 @@
         {
             "url": "https://www.indeed.com/career-advice/resumes-cover-letters/job-cast-ready-your-resume",
             "title": "Job Cast: Ready Your Resume"
+        },
+        {
+            "url": "https://www.freecodecamp.org/news/how-to-write-a-resume-with-example/",
+            "title": "How to Write a Resume with Example"
         }
     ],
     "Career Websites": [
@@ -157,6 +161,10 @@
         {
             "url": "https://cp-algorithms.com/",
             "title": "CP-Algorithms"
+        },
+        {
+            "url": "https://www.freecodecamp.org/news/understand-data-structures-in-c-and-cpp/",
+            "title": "Understand Data Structures in C and C++"
         },
         {
             "url": "https://github.com/rachitiitr/DataStructures-Algorithms",
@@ -210,6 +218,14 @@
         }
     ],
     "Other": [
+        {
+            "url": "https://www.freecodecamp.org/news/how-to-acing-your-coding-interview-advice-from-senior-software-engineer/",
+            "title": "How to Acing Your Coding Interview - Advice from Senior Software Engineer"
+        },
+        {
+            "url": "https://www.freecodecamp.org/news/how-to-get-a-job-by-building-relationships/",
+            "title": "How to Get a Job by Building Relationships"
+        },
         {
             "url": "https://www.freecodecamp.org/news/how-empathy-makes-you-a-better-software-engineer/",
             "title": "How Empathy Can Make You a Better Software Engineer"
