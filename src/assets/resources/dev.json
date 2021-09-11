@@ -91,6 +91,10 @@
         {
             "url": "https://www.digitalocean.com/community/curriculums/kubernetes-for-full-stack-developers",
             "title": "Kubernetes for Full-Stack Developers"
+        },
+        {
+            "url": "https://www.freecodecamp.org/news/learn-solidity-blockchain-and-smart-contracts-in-a-free/",
+            "title": "Learn Solidity, Blockchain and Smart Contracts in a Free Course"
         }
     ],
     "Topics": [
@@ -295,6 +299,14 @@
         {
             "url": "https://dev.to/cglikpo/tips-to-become-a-great-programmer-471e",
             "title": "Tips to Become a Great Programmer"
+        },
+        {
+            "url": "https://dev.to/webiny/build-an-e-commerce-website-with-webiny-serverless-headless-cms-next-js-and-stripe-22cd",
+            "title": "Build an E-Commerce Website with Webiny Serverless Headless CMS, Next.js and Stripe"
+        },
+        {
+            "url": "https://www.freecodecamp.org/news/setup-babel-in-nodejs/",
+            "title": "Setup Babel in Node.js"
         }
     ],
     "GitHub Repos & Projects": [
