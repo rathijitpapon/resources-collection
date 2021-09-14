@@ -311,6 +311,10 @@
         {
             "url": "https://www.freecodecamp.org/news/setup-babel-in-nodejs/",
             "title": "Setup Babel in Node.js"
+        },
+        {
+            "url": "https://www.freecodecamp.org/news/how-to-integrate-google-apis-with-python-django/",
+            "title": "How to Integrate Google APIs with Python & Django"
         }
     ],
     "GitHub Repos & Projects": [
