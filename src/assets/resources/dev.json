@@ -99,6 +99,10 @@
         {
             "url": "https://www.freecodecamp.org/news/learn-solidity-blockchain-and-smart-contracts-in-a-free/",
             "title": "Learn Solidity, Blockchain and Smart Contracts in a Free Course"
+        },
+        {
+            "url": "https://youtu.be/1hvVcEhcbLM",
+            "title": "Linux Essentials for Ethical Hackers - Full InfoSec Course"
         }
     ],
     "Topics": [
@@ -315,6 +319,10 @@
         {
             "url": "https://www.freecodecamp.org/news/how-to-integrate-google-apis-with-python-django/",
             "title": "How to Integrate Google APIs with Python & Django"
+        },
+        {
+            "url": "https://www.freecodecamp.org/news/github-stars-answer-the-communitys-most-asked-questions/",
+            "title": "How to Become a GitHub Star – Tips from Actual GitHub Stars"
         }
     ],
     "GitHub Repos & Projects": [
