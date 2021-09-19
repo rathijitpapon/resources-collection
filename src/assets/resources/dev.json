@@ -209,8 +209,16 @@
             "title": "7 Steps to Become an Expert Software Developer"
         },
         {
+            "url": "https://dev.to/mbogan/7-microservices-best-practices-for-developers-ec5",
+            "title": "7 Microservices Best Practices for Developers"
+        },
+        {
             "url": "https://www.boxpiper.com/posts/solid-software-design-principles/",
             "title": "SOLID: Software Design Principles. Be a better developer"
+        },
+        {
+            "url": "https://dev.to/albertbennett/solid-principals-for-oop-2e49",
+            "title": "Solid: Principles for OOP"
         },
         {
             "url": "https://www.geeksforgeeks.org/how-to-design-a-web-application-a-guideline-on-software-architecture/",
@@ -319,6 +327,10 @@
         {
             "url": "https://www.freecodecamp.org/news/how-to-integrate-google-apis-with-python-django/",
             "title": "How to Integrate Google APIs with Python & Django"
+        },
+        {
+            "url": "https://dev.to/codewithshahan/sass-crash-course-in-a-book-3kg2",
+            "title": "Sass Crash Course in a Book"
         },
         {
             "url": "https://www.freecodecamp.org/news/github-stars-answer-the-communitys-most-asked-questions/",
