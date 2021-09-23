@@ -35,6 +35,14 @@
         {
             "url": "https://techinterviewhandbook.org/introduction",
             "title": "Tech Interview Handbook"
+        },
+        {
+            "url": "https://www.codinginterview.com/",
+            "title": "Coding Interview"
+        },
+        {
+            "url": "https://www.educative.io/",
+            "title": "Educative"
         }
     ],
     "Resume": [
@@ -75,6 +83,10 @@
         {
             "url": "https://www.massapply.com/",
             "title": "MassApply"
+        },
+        {
+            "url": "https://hexhybrids.in/",
+            "title": "HexHybrids"
         }
     ],
     "Problem Solving": [
