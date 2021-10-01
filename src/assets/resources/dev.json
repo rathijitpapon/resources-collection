@@ -339,6 +339,18 @@
         {
             "url": "https://dev.to/thesanjeevsharma/just-redux-the-complete-guide-44d5",
             "title": "Just Redux: The Complete Guide"
+        },
+        {
+            "url": "https://www.freecodecamp.org/news/the-linux-commands-handbook/",
+            "title": "The Linux Commands Handbook"
+        },
+        {
+            "url": "https://dev.to/asayerio_techblog/redux-is-dead-long-live-redux-toolkit-db8",
+            "title": "Redux is Dead, Long Live Redux Toolkit"
+        },
+        {
+            "url": "https://www.freecodecamp.org/news/git-for-professionals/",
+            "title": "Git for Professionals"
         }
     ],
     "GitHub Repos & Projects": [
@@ -419,6 +431,10 @@
         {
             "url": "https://opensauced.pizza/",
             "title": "The path to your next Open Source contribution."
+        },
+        {
+            "url": "https://dev.to/pb/open-source-programs-for-students-to-participate-55gm",
+            "title": "Open Source Programs For Students to Participate"
         },
         {
             "url": "https://up-for-grabs.net/#/",
